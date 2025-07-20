@@ -1,0 +1,96 @@
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0m[34mRunning task clone[0m
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0m[34mRunning task clone[0m
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mCloning into '/Users/bui/.local/share/nvim/lazy/mason-conform.nvim'...
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mCloning into '/Users/bui/.local/share/nvim/lazy/mason-nvim-lint.nvim'...
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mERROR: Repository not found.
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mfatal: Could not read from remote repository.
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0m
+Please make sure you have the correct access rights
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mand the repository exists.
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0m[34mFinished task clone in 1314ms[0m
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mERROR: Repository not found.
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mfatal: Could not read from remote repository.
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0m
+Please make sure you have the correct access rights
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mand the repository exists.
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0m[34mFinished task clone in 1393ms[0m
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0m[34mRunning task clone[0m
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0m[34mRunning task clone[0m
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mCloning into '/Users/bui/.local/share/nvim/lazy/mason-conform.nvim'...
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mCloning into '/Users/bui/.local/share/nvim/lazy/mason-nvim-lint.nvim'...
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mERROR: Repository not found.
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mfatal: Could not read from remote repository.
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0m
+Please make sure you have the correct access rights
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mand the repository exists.
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0m[34mFinished task clone in 1331ms[0m
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mERROR: Repository not found.
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mfatal: Could not read from remote repository.
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0m
+Please make sure you have the correct access rights
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mand the repository exists.
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0m[34mFinished task clone in 1342ms[0m
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0m[34mRunning task clone[0m
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0m[34mRunning task clone[0m
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mCloning into '/Users/bui/.local/share/nvim/lazy/mason-conform.nvim'...
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mCloning into '/Users/bui/.local/share/nvim/lazy/mason-nvim-lint.nvim'...
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mERROR: Repository not found.
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mfatal: Could not read from remote repository.
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0m
+Please make sure you have the correct access rights
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mand the repository exists.
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0m[34mFinished task clone in 1302ms[0m
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mERROR: Repository not found.
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mfatal: Could not read from remote repository.
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0m
+Please make sure you have the correct access rights
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mand the repository exists.
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0m[34mFinished task clone in 1325ms[0m
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0m[34mRunning task clone[0m
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0m[34mRunning task clone[0m
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mCloning into '/Users/bui/.local/share/nvim/lazy/mason-conform.nvim'...
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mCloning into '/Users/bui/.local/share/nvim/lazy/mason-nvim-lint.nvim'...
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mERROR: Repository not found.
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mfatal: Could not read from remote repository.
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0m
+Please make sure you have the correct access rights
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mand the repository exists.
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0m[34mFinished task clone in 1224ms[0m
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mERROR: Repository not found.
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mfatal: Could not read from remote repository.
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0m
+Please make sure you have the correct access rights
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mand the repository exists.
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0m[34mFinished task clone in 1312ms[0m
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0m[34mRunning task clone[0m
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0m[34mRunning task clone[0m
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mCloning into '/Users/bui/.local/share/nvim/lazy/mason-nvim-lint.nvim'...
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mCloning into '/Users/bui/.local/share/nvim/lazy/mason-conform.nvim'...
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mERROR: Repository not found.
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mfatal: Could not read from remote repository.
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0m
+Please make sure you have the correct access rights
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mand the repository exists.
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0m[34mFinished task clone in 1363ms[0m
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mERROR: Repository not found.
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mfatal: Could not read from remote repository.
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0m
+Please make sure you have the correct access rights
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mand the repository exists.
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0m[34mFinished task clone in 1386ms[0m
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0m[34mRunning task clone[0m
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0m[34mRunning task clone[0m
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mCloning into '/Users/bui/.local/share/nvim/lazy/mason-nvim-lint.nvim'...
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mCloning into '/Users/bui/.local/share/nvim/lazy/mason-conform.nvim'...
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mERROR: Repository not found.
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mfatal: Could not read from remote repository.
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0m
+Please make sure you have the correct access rights
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0mand the repository exists.
+[35m[mason-conform.nvim] [0m[36mclone[0m[90m | [0m[34mFinished task clone in 1301ms[0m
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mERROR: Repository not found.
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mfatal: Could not read from remote repository.
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0m
+Please make sure you have the correct access rights
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0mand the repository exists.
+[35m[mason-nvim-lint.nvim] [0m[36mclone[0m[90m | [0m[34mFinished task clone in 1380ms[0m

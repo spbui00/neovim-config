@@ -52,13 +52,6 @@ return {
     opts = require "configs.conform",
   },
 
-  -- formatting!
-  {
-    "stevearc/conform.nvim",
-    opts = {
-      formatters_by_ft = { lua = { "stylua" } },
-    },
-  },
 
   -- file managing , picker etc
   {
@@ -102,6 +95,7 @@ return {
     event = "User FilePost",
     config = function()
       require("nvchad.configs.lspconfig").defaults()
+      require("configs.lspconfig")
     end,
   },
 

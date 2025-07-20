@@ -7,13 +7,13 @@ local M = {}
 
 M = {
   base46 = {
-    theme = "onedark", -- default theme
+    theme = "everblush", -- default theme
     hl_add = {},
     hl_override = {},
     integrations = {},
     changed_themes = {},
     transparency = true,
-    theme_toggle = { "onedark", "one_light" },
+    theme_toggle = { "everblush", "one_light" },
   },
 
   ui = {
@@ -32,7 +32,7 @@ M = {
       theme = "default", -- default/vscode/vscode_colored/minimal
       -- default/round/block/arrow separators work only for default statusline theme
       -- round and block will work for minimal theme only
-      separator_style = "default",
+      separator_style = "round",
       order = nil,
       modules = nil,
     },
