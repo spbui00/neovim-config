@@ -8,6 +8,7 @@ local default_servers = {
   "html",
   "marksman",
   "ts_ls",
+  "ruff"
 }
 
 for _, server in ipairs(default_servers) do
@@ -29,6 +30,8 @@ vim.lsp.config("pyright", {
         autoSearchPaths = true,
         useLibraryCodeForTypes = true,
         typeCheckingMode = "basic",
+        venvPath = ".",
+        venv = ".venv"
       },
     },
   },
