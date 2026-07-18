@@ -74,3 +74,8 @@ end, { desc = "Peek definition in right window (equal width)" })
 
 -- map({ "n", "i", "v" }, "<C-s>", "<cmd> w <cr>")
 
+-- Keep visual mode selection after indenting/outdenting
+map("v", "<Tab>", ">gv", { desc = "indent right and reselect" })
+map("v", "<S-Tab>", "<gv", { desc = "indent left and reselect" })
+map("v", "<", "<gv", { desc = "indent left and reselect" })
+map("v", ">", ">gv", { desc = "indent right and reselect" })
