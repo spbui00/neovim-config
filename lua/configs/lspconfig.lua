@@ -28,7 +28,8 @@ vim.lsp.config("pyright", {
     python = {
       analysis = {
         autoSearchPaths = true,
-        useLibraryCodeForTypes = true,
+        useLibraryCodeForTypes = false,
+        diagnosticMode = "openFilesOnly",
         typeCheckingMode = "basic",
         venvPath = ".",
         venv = ".venv"
